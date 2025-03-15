@@ -1,0 +1,12 @@
+com\example\myfirstproject\controller\UserController.class
+com\example\myfirstproject\controller\JournalEntryController.class
+com\example\myfirstproject\controller\Health.class
+com\example\myfirstproject\config\SecurityConfig.class
+com\example\myfirstproject\service\UserService.class
+com\example\myfirstproject\entity\JournalEntry.class
+com\example\myfirstproject\service\UserDetailsServiceImpl.class
+com\example\myfirstproject\entity\User.class
+com\example\myfirstproject\service\JournalEntryService.class
+com\example\myfirstproject\MyFirstProjectApplication.class
+com\example\myfirstproject\repository\UserRepository.class
+com\example\myfirstproject\repository\JournalEntryRepository.class
